@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+ui/trained_model_sq1.1/
+*.bin
+
